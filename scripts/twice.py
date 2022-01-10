@@ -9,12 +9,12 @@ All rights reserved.
 import rospy
 from std_msgs.msg import Int32
 
-n = 0
+n = 65
 
 def cb(message):
     global n
-    n = message.data*2
-
+    n = message.data
+    
 rospy.init_node('twice')
 sub = rospy.Subscriber('count_up', Int32, cb)
 pub = rospy.Publisher('twice', Int32, queue_size=1)
