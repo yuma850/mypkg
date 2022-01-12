@@ -24,7 +24,6 @@ https://github.com/ryuichiueda/ros_setup_scripts_Ubuntu20.04_server.git
 --------
 
 ## プログラムの実行方法
--------
         
         $ cd scripts                  //scriptsに移動する
         
@@ -42,3 +41,11 @@ https://github.com/ryuichiueda/ros_setup_scripts_Ubuntu20.04_server.git
         
         $rostopic echo /gusu0         //gusu0のプログラムの実行状況を表示する（最初に使っていた端末で行う）
         
+--------
+
+## 実行動画
+https://youtu.be/uW_VJhfp46Q
+
+--------
+
+## ライセンス
