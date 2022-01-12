@@ -49,3 +49,4 @@ https://youtu.be/uW_VJhfp46Q
 --------
 
 ## ライセンス
+BSD 2-Clause "Simplified" License
